@@ -2,6 +2,7 @@
 
 # <img src="https://readme-typing-svg.herokuapp.com?font=JetBrains+Mono&size=45&duration=3000&pause=1000&color=00FF41&center=true&vCenter=true&width=280&height=65&lines=wither" alt="wither" />
 
+
 [![Blog](https://img.shields.io/badge/-Blog-FF5722?style=for-the-badge&logo=blogger&logoColor=white)](https://wither.blog)
 [![HTB](https://img.shields.io/badge/-Hack%20The%20Box-111927?style=for-the-badge&logo=hackthebox&logoColor=9FEF00)](https://app.hackthebox.com/profile/wthr)
 [![THM](https://img.shields.io/badge/-TryHackMe-212C42?style=for-the-badge&logo=tryhackme&logoColor=white)](https://tryhackme.com/p/wither)
