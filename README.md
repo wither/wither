@@ -12,7 +12,7 @@
 <div align="center">
 
 <p align="center">
-<a href="https://github.com/wither/ridwalk">
+<a href="https://github.com/wither/anubis">
 <img src="https://github-readme-stats-sigma-five.vercel.app/api/pin/?username=wither&repo=ridwalk&theme=dark&bg_color=0d1117&title_color=00ff41&text_color=c9d1d9&icon_color=00ff41&border_color=21262d&border_radius=8&cache_seconds=86400" />
 </a>
 </p>
