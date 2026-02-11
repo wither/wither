@@ -17,18 +17,6 @@
 </a>
 </p>
 
-<p align="center">
-<a href="https://github.com/wither/pwninit">
-<img src="https://github-readme-stats-sigma-five.vercel.app/api/pin/?username=wither&repo=pwninit&theme=dark&bg_color=0d1117&title_color=00ff41&text_color=c9d1d9&icon_color=00ff41&border_color=21262d&border_radius=8&cache_seconds=86400" />
-</a>
-</p>
-
-<p align="center">
-<a href="https://github.com/wither/kali-build">
-<img src="https://github-readme-stats-sigma-five.vercel.app/api/pin/?username=wither&repo=kali-build&theme=dark&bg_color=0d1117&title_color=00ff41&text_color=c9d1d9&icon_color=00ff41&border_color=21262d&border_radius=8&cache_seconds=86400" />
-</a>
-</p>
-
 </div>
 </div>
 <br>
