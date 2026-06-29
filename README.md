@@ -6,12 +6,6 @@ Security researcher
 
 <br>
 
-### Contact / Platforms
-
-[![Blog](https://img.shields.io/badge/-Blog-FF5722?style=for-the-badge&logo=blogger&logoColor=white)](https://wither.github.io/)
-
-<br>
-
 ### Featured Projects
 
 <div align="center">
